@@ -1,6 +1,69 @@
 {
   "schema_version": 1,
   "last_successful_coverage_end": null,
-  "pending_intervals": [],
-  "papers": []
+  "pending_intervals": [
+    {
+      "start": "2026-09-07T09:00:00+08:00",
+      "end": "2026-10-07T09:00:00+08:00",
+      "reason": "仅主题网页检索与逐条核实，未完成全量覆盖"
+    }
+  ],
+  "papers": [
+    {
+      "id": "2610.05594",
+      "version": "v1",
+      "title": "Likelihood & Correlation Analysis of π⁰ Electroproduction for Proton Tensor Charge Extraction",
+      "source": "https://arxiv.org/abs/2610.05594v1",
+      "recommended_date": "2026-10-07",
+      "category": "前沿"
+    },
+    {
+      "id": "2609.36044",
+      "version": "v1",
+      "title": "Hybrid Neural Simulation-Based Inference for Robust Applications and Limited-Budget Scenarios",
+      "source": "https://arxiv.org/abs/2609.36044v1",
+      "recommended_date": "2026-10-07",
+      "category": "前沿"
+    },
+    {
+      "id": "2609.30196",
+      "version": "v1",
+      "title": "Simulation-Based Inference and Unbinned Asimov Construction with Hybrid Neural Density Estimation",
+      "source": "https://arxiv.org/abs/2609.30196v1",
+      "recommended_date": "2026-10-07",
+      "category": "前沿"
+    },
+    {
+      "id": "2609.11767",
+      "version": "v1",
+      "title": "Massless-Massive Amplitude Correspondence III: Massive Amplitude Bases in the SMEFT",
+      "source": "https://arxiv.org/abs/2609.11767v1",
+      "recommended_date": "2026-10-07",
+      "category": "前沿"
+    },
+    {
+      "id": "1805.00013",
+      "version": "v4",
+      "title": "Constraining Effective Field Theories with Machine Learning",
+      "source": "https://arxiv.org/abs/1805.00013v4",
+      "recommended_date": "2026-10-07",
+      "category": "学习"
+    },
+    {
+      "id": "1706.08945",
+      "version": "v3",
+      "title": "The Standard Model as an Effective Field Theory",
+      "source": "https://arxiv.org/abs/1706.08945v3",
+      "recommended_date": "2026-10-07",
+      "category": "学习"
+    },
+    {
+      "id": "1410.3831",
+      "version": "v1",
+      "title": "An exact mapping between the Variational Renormalization Group and Deep Learning",
+      "source": "https://arxiv.org/abs/1410.3831v1",
+      "recommended_date": "2026-10-07",
+      "category": "学习"
+    }
+  ]
 }
